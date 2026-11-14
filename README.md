@@ -1,7 +1,3 @@
-## Olá, eu sou o Lucas Gabriel 👋
-
-Estudante de Sistemas de Informação na UNIP, buscando estágio em TI.
-
-🔧 Tecnologias: Python, HTML, CSS
-💼 Experiência: Jovem Aprendiz de Faturamento na Stuttgart Porsche
-📫 LinkedIn: cole-aqui-o-link-do-seu-linkedin
+Sou estudante de Sistemas de Informação na UNIP, construindo minha trajetória na área de tecnologia, com interesse em desenvolvimento de software, programação e suporte técnico.
+Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, Python, Java, HTML e CSS. Meu objetivo é transformar o que aprendo na faculdade em soluções práticas e projetos que contribuam para resolver problemas do dia a dia.
+Tenho experiência profissional na área administrativa e de faturamento na Stuttgart Porsche, onde trabalhei com sistemas corporativos. Essa experiência me proporcionou contato com processos empresariais e fortaleceu minhas habilidades de organização, responsabilidade e resolução de problemas.
